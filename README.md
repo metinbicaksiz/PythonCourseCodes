@@ -25,3 +25,4 @@ These are the projects to learn and practice python.
 23. Password Manager
 24. Nato Phonetic
 25. Flash Card App# PythonCourseCodes
+26. SMTP Mail sender
