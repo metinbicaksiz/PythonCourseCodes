@@ -26,3 +26,6 @@ These are the projects to learn and practice python.
 24. Nato Phonetic
 25. Flash Card App# PythonCourseCodes
 26. SMTP Mail sender
+27. APIs
+28. Quiz App with GUI
+29. Rain Alert & SMS
