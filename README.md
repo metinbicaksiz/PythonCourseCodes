@@ -29,3 +29,5 @@ These are the projects to learn and practice python.
 27. APIs
 28. Quiz App with GUI
 29. Rain Alert & SMS
+30. Stock Trading News Alert App
+31. Habit Tracker App
