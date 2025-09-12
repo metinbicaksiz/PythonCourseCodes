@@ -34,7 +34,7 @@ today = datetime.now().strftime("%Y%m%d")
 
 pixel_data = {
     "date": today,
-    "quantity": "10.5"
+    "quantity": input(float("How many kilometers have you run today?"))
 }   
 
 pixel_creation = requests.post(url=pixel_creation_endpoint, headers=headers, json=pixel_data)
